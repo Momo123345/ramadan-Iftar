@@ -1,4 +1,3 @@
-
 <html lang="sv">
 <head>
     <meta charset="UTF-8">
@@ -106,11 +105,8 @@
         <a href="https://www.google.com/search?q=Ramadan" target="_blank">Ramadan</a><br>
         <a href="https://islam.nu/e-bocker/rattsbestammelser-fiqh/ramadanboken/" target="_blank">Ladda ner grundläggande förklaring av den fjärde pelaren i islam</a>
 
-        <!-- Ljudspelare -->
-        <audio id="audioPlayer" autoplay loop>
-            <source src="https://din-github-länk-till-ljudfilen.mp3" type="audio/mp3">
-            Din webbläsare stöder inte ljudspelaren.
-        </audio>
+        <!-- SoundCloud inbäddning för automatisk uppspelning -->
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29819254&color=%23ff5500&auto_play=true"></iframe>
     </div>
 
     <script>
