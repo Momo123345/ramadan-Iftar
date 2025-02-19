@@ -106,10 +106,10 @@
         <a href="https://www.google.com/search?q=Ramadan" target="_blank">Ramadan</a><br>
         <a href="https://islam.nu/e-bocker/rattsbestammelser-fiqh/ramadanboken/" target="_blank">Ladda ner grundläggande förklaring av den fjärde pelaren i islam</a>
 
-        <!-- Ljudspelare för MP3-fil som spelas automatiskt -->
-        <audio id="audioPlayer" autoplay>
-            <source src="https://drive.google.com/uc?export=download&id=1Tf5fWbbYaGfyB-nolTLRAFe3zHepuNUQ" type="audio/mp3">
-            Your browser does not support the audio element.
+        <!-- Ljudspelare -->
+        <audio id="audioPlayer" autoplay loop>
+            <source src="https://din-github-länk-till-ljudfilen.mp3" type="audio/mp3">
+            Din webbläsare stöder inte ljudspelaren.
         </audio>
     </div>
 
