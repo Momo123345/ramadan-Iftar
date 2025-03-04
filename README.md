@@ -94,7 +94,7 @@
         <div id="countdown"></div>
 
         <ul>
-            <li>Ramadan 15/3</li>
+            <li>Ramadan 16/3</li>
             <li>Plats: Klangvägen 2</li>
             <li>Klockan: 17:00</li>
             <li>Det kommer finnas aktiviteter efter iftar, Inshallah</li>
