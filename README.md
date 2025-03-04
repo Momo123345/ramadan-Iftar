@@ -111,7 +111,7 @@
 
     <script>
         // Nedräkning till iftar
-        const iftarDate = new Date('2025-03-15T17:00:00').getTime();
+        const iftarDate = new Date('2025-03-16T17:00:00').getTime();
 
         const countdown = setInterval(() => {
             const now = new Date().getTime();
